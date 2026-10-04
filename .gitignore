@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# SQLite database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# OS files
+.DS_Store
+Thumbs.db
